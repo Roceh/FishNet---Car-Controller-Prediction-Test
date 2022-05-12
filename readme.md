@@ -7,6 +7,13 @@ I may well have done things wrong here as this is my go with CSP, but it seems t
 Project was done in unity 2021.3.2f1
 
 
+
+
+
+https://user-images.githubusercontent.com/105083894/167950047-1225c573-5040-49a4-8d60-035e45489016.mp4
+
+
+
 ---
 #### Free assets used
 Fishnet: https://assetstore.unity.com/packages/tools/network/fish-net-networking-evolved-207815
